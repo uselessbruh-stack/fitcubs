@@ -1,0 +1,22 @@
+{
+    "name": "fitcubs-marathon",
+    "version": "1.0.0",
+    "description": "The Fit Cubs Kids Mini Marathon 2025 - Event Registration System",
+    "scripts": {
+        "install-all": "cd backend && npm install && cd ../frontend && npm install",
+        "backend": "cd backend && npm start",
+        "frontend": "cd frontend && npm start",
+        "dev-backend": "cd backend && npm run dev",
+        "backend-install": "cd backend && npm install",
+        "frontend-install": "cd frontend && npm install"
+    },
+    "keywords": [
+        "fitcubs",
+        "marathon",
+        "event",
+        "registration"
+    ],
+    "author": "The Fit Cubs",
+    "license": "UNLICENSED",
+    "private": true
+}
